@@ -87,6 +87,14 @@ h6{
 	text-align:center;
 	margin:0 0 60px 0;
 }
+
+div.inline {
+ float:left; 
+}
+.clearBoth { 
+ clear:both;
+ }
+
 p{
 	line-height:24px;
 	margin:0;
